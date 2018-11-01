@@ -1,0 +1,83 @@
+[
+		{
+			"id":1,
+			"name": "Fry",
+			"image": "./images/Fry.png"
+		},
+		{
+			"id":2,
+			"name": "Amy",
+			"image": "./images/Amy_Wong.jpg"
+		},
+		{
+			"id":3,
+			"name": "Bender",
+			"image": "./images/Bender.png"
+		},
+		{
+			"id":4,
+			"name": "Giant Brain",
+			"image": "./images/giantBrain.jpg"
+		},
+		{
+			"id":5,
+			"name": "Hedonism Bot",
+			"image": "./images/Hedonismbot.png"
+		},
+		{
+			"id":6,
+			"name": "Hermes Conrad",
+			"image": "./images/Hermes.jpg"
+		},
+		{
+			"id":7,
+			"name": "Kiff Kroker",
+			"image": "./images/kiff.png"
+		},
+		{
+			"id":8,
+			"name": "Turanga Leela",
+			"image": "./images/Leela.png"
+		},
+		{
+			"id":9,
+			"name": "Linda",
+			"image": "./images/Linda.jpg"
+		},
+		{
+			"id":10,
+			"name": "Mom",
+			"image": "./images/Mom.png"
+		},
+		{
+			"id":11,
+			"name": "Morbo",
+			"image": "./images/Morbo.png"
+		},
+		{
+			"id":12,
+			"name": "Nibbler",
+			"image": "./images/nibbler.png"
+		},
+		{
+			"id":13,
+			"name": "Professor Farnsworth",
+			"image": "./images/professor.jpg"
+		},
+		{
+			"id":14,
+			"name": "Roberto",
+			"image": "./images/Roberto.png"
+		},
+		{
+			"id":15,
+			"name": "Scruffy",
+			"image": "./images/Scruffy.png"
+		},
+		{
+			"id":16,
+			"name": "Zapp Brannigan",
+			"image": "./images/ZappBrannigan.png"
+		}
+	]
+

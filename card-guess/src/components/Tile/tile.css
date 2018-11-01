@@ -1,0 +1,13 @@
+.img-container{
+    width: 75px;
+    border: 3px transparent;
+	margin: 25px;
+	position: relative;
+	box-shadow: 0 3px 6px #999, 0px 3px 6px #999;
+	background-size: cover; 	
+}
+
+.tile{
+	max-width: 100%;
+	max-height: 100%;
+}
